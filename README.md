@@ -13,7 +13,7 @@ There are no shared dependencies between applications.
 ## Changelog
 
 ### v0.0.1
-- Release to Git
+- Release to Git (2021-Apr-22)
 
 ## Author
   Souza, Otávio
