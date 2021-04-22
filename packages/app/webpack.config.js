@@ -13,7 +13,7 @@ let config = {
         contentBase: path.resolve(__dirname, './dist'),
         index: 'index.html',
         port: 9001,
-        historyFallbackApi: true
+        historyApiFallback: true
     },
     resolve: {
         extensions: [".jsx", ".js", ".json"]
